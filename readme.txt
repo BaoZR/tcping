@@ -1,4 +1,5 @@
-这个程序和原来的程序相比，增加了定时运行功能和统计jittor的功能
+Note:
+Compared with the original program, this program has added the function of timing and statistics JITTOR function
 
 Installation:
 ------------
