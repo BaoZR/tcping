@@ -1,5 +1,5 @@
 Note:
-Compared with the original program, this program has added the function of timing and statistics JITTOR function
+Compared with the original program, this program has added the functions of scheduled operation and statistics on JITTOR.
 
 Installation:
 ------------
